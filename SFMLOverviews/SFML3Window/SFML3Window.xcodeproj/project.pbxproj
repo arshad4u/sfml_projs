@@ -27,6 +27,8 @@
 		6EDA1B6D2D78648C007D35BD /* doodle_pop.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = doodle_pop.ogg; sourceTree = "<group>"; };
 		6EDA1B6E2D78648C007D35BD /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		6EDA1B6F2D78648C007D35BD /* tuffy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = tuffy.ttf; sourceTree = "<group>"; };
+		6EDA1B762D786C35007D35BD /* DefaultSFMLAppWindow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DefaultSFMLAppWindow.h; sourceTree = "<group>"; };
+		6EDA1B792D786D75007D35BD /* SimpleSFML3AppWindow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleSFML3AppWindow.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,8 @@
 				6EDA1B562D785F0A007D35BD /* ResourcePath.mm */,
 				6EDA1B582D785F0A007D35BD /* ResourcePath.hpp */,
 				6EDA1B592D785F0A007D35BD /* main.cpp */,
+				6EDA1B792D786D75007D35BD /* SimpleSFML3AppWindow.h */,
+				6EDA1B762D786C35007D35BD /* DefaultSFMLAppWindow.h */,
 				6EDA1B5B2D785F0A007D35BD /* Resources */,
 				6EDA1B542D785F0A007D35BD /* Supporting Files */,
 			);
